@@ -1,0 +1,22 @@
+
+/* COMMON */
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.section-wrapper {
+    max-width: 960px;
+    min-width: 700px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+}
+
+
+/* SECTION HERO */
